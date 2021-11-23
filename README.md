@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anderson Alves - @and19alves .
 - 👀 I’m interested in learning the best that computing can teach.
-- 🌱 I’m currently learning data structure, computer architecture and organization and statistics in R.
+- 🌱 I’m currently learning data structure , computer architecture and organization, OOP (Object-Oriented Programming) and operational systems (OS).
 - 💞️ I'm looking to collaborate on interesting projects
 - 📫 @and19alves
 
